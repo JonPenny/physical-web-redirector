@@ -1,6 +1,6 @@
 applications:
   - disk_quota: 1024M
-    host: redirector
+    host: spine-server
     name: Redirect Server
     path: .
     domain: mybluemix.net
