@@ -2,9 +2,10 @@
   "name": "redirect-server",
   "version": "1.0.0",
   "description": "Create and serve tiny urls for beacons to map to customer custom URLs",
-  "main": "server.js ",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha "
+    "test": "mocha test",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
